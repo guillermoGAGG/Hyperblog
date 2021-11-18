@@ -52,3 +52,11 @@ body
     background: white;
     padding: 1em;
 }
+  
+#footer
+{
+    background: chocolate;
+    color: whitesmoke ;
+    text-align: center;
+    padding: 00.5em;
+}
